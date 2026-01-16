@@ -1,1 +1,1 @@
-[My Image](images\Git_logo.png)
+![My Image](images\Git_logo.png)
